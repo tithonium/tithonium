@@ -1,4 +1,17 @@
-### Hi there 👋
+### Standard Bio
+```
+Software Architect/Server farmer. Aretic. Hegemon of Mars (deposed). Athazagoraphobic.
+
+I'm not good; I'm not nice; I'm just right.
+
+Thou shalt not violate causality within my historic light cone.
+
+He/Him.
+```
+
+My primary website is at http://martian.at/
+
+More to come when I have something interesting to put here...
 
 <!--
 **tithonium/tithonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
