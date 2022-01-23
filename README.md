@@ -2,7 +2,7 @@
 ```
 Software Architect/Server farmer. Aretic. Hegemon of Mars (deposed). Athazagoraphobic.
 
-I'm not good; I'm not nice; I'm just right.
+Half-Harbinger of Doom.
 
 Thou shalt not violate causality within my historic light cone.
 
